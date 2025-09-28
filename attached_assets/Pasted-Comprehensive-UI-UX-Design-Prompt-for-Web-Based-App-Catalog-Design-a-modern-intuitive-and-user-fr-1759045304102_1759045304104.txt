@@ -1,0 +1,41 @@
+Comprehensive UI/UX Design Prompt for Web-Based App Catalog
+
+Design a modern, intuitive, and user-friendly UI/UX concept for a web-based application catalog, emphasizing smooth navigation, clear visual hierarchy, and actionable interactions. Include the following elements:
+
+1. Key Screens & Prototypes
+
+Catalog Browsing: Apps displayed with search, filters, curated lists, and AI-powered recommendations (Apple App Store & AppExchange best practices).
+
+App Details Page: Show purpose, features, access requirements, usage stats, and user feedback (Apple App Store best practices).
+
+Access Request Flow: Illustrate step-by-step journey for requesting access, with confirmations and feedback.
+
+Personal Dashboard: Display active apps, pending requests, and quick actions (Okta Dashboard inspiration).
+
+2. User Journey Mapping & Scenarios
+
+New Employee: Explore available apps using search, curated lists, and AI recommendations; highlight categories and trending apps (Apple App Store & AppExchange insights).
+
+Existing User: Locate a specific tool using detailed app info and smart filters; view purpose, features, access requirements, feedback, and usage stats (Apple App Store insights).
+
+Department Switch: Access apps for a new role via role-based categorization and personalized dashboards; track access status and pending requests (Salesforce AppExchange & Okta insights).
+
+3. Functionality & Interaction Design
+
+Categorization: Organize apps by role, department, and popularity (Salesforce AppExchange best practice).
+
+Navigation: Include intuitive menus, breadcrumbs, and shortcuts for fast browsing.
+
+Search & Filtering: Offer predictive search, advanced filters, and sorting options.
+
+Access Status Indicators: Clearly show which apps are already accessible versus those requiring requests (Okta Dashboard).
+
+Personalization: Suggest apps based on usage patterns, role, and AI recommendations.
+
+Micro-Interactions: Include hover, click, loading, and success/error animations for feedback.
+
+4. Output Expectation
+
+Produce low-to-mid fidelity wireframes or prototypes demonstrating usability, interaction flow, and feature placement.
+
+Emphasize clarity, hierarchy, personalization, and actionable insights for diverse user types navigating the catalog.
